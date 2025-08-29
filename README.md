@@ -1,1 +1,1 @@
-# rust-ipsniffer
+# rust-weather-cli
